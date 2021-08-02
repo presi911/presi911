@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @presi911
 - 👀 I’m interested in Web Programming 
-- 🌱 I’m currently learning C# VS Angular
+- 🌱 I’m Focus on C# SQL Viual Studio & Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach at dfclavijo@gmail.com
 
