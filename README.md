@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @presi911
 - 👀 I’m interested in Web Programming 
-- 🌱 I’m Focus on .NET Core, .NET Framework C# SQL Viual Studio & Angular
+- 🌱 I’m Focus on API Rest .NET Core, .NET Framework C# SQL Postgress Heroku Azure AWS & Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach at dfclavijo@gmail.com
 
